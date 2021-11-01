@@ -1,5 +1,5 @@
 - links:
-  - name: Pricing
+  - name:
     link: /pricing/
   - name: Blog
     link: /blog/
@@ -8,10 +8,10 @@
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
+  - name:
     link: /
     new_window: true
-  - name: Sign Up
+  - name:
     link: /
     new_window: true
   - name: Docs
@@ -21,18 +21,18 @@
     link: /
     new_window: true
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
-    new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/cloudcannon/
-    social_icon: Twitter
-    new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
-    new_window: true
+  - name: Gas Safe
+    link: https://lec.build
+    new_window: false
+    social_icon: Gassafe
+  - name: NAPIT
+    link: https://lec.build
+    social_icon: Napit
+    new_window: false
+  - name: CCS
+    link: https://lec.build
+    social_icon: CCS
+    new_window: false
   - name: RSS
     link: /feed.xml
     social_icon: RSS
