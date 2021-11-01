@@ -5,20 +5,20 @@
 - name: Portfolio
   link: /blog/
   new_window: false
-  highlight: false
+  highlight: true
 - name: About
   link: /about/
   new_window: false
-  highlight: false
+  highlight: true
 - name: Contact
   link: /contact/
   new_window: false
-  highlight: false
-- name:
-  link: /
-  new_window: true
-  highlight: false
-- name:
-  link: /
-  new_window: true
   highlight: true
+- name:
+  link: /
+  new_window: true
+  highlight: false
+- name:
+  link: /
+  new_window: true
+  highlight: false
